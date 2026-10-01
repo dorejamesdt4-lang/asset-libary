@@ -1,0 +1,64 @@
+{
+  "archive": "floor_tiles_06_4k.blend.zip",
+  "archive_sha256": "a05b4c6266c9c437782ad8f1385c38eee7446f8fca94db0e10365435b06d063a",
+  "license": "No license information was included with the uploaded archive. Confirm the source license before publishing these assets for unrestricted use.",
+  "files": [
+    {
+      "path": "floor_tiles_06_4k.blend",
+      "size_bytes": 275987,
+      "sha256": "1486c54b8c239bc8c127b7e4f8e1632fc786956554dbe43c156c26be443c53bf"
+    },
+    {
+      "path": "textures/floor_tiles_06_diff_4k.jpg",
+      "size_bytes": 5653655,
+      "sha256": "e9e61cd5c02d35797b0aeb5b8e62db969c800285ef055670fa9804c9fc828bd9"
+    },
+    {
+      "path": "textures/floor_tiles_06_rough_4k.jpg",
+      "size_bytes": 2222028,
+      "sha256": "ed05d9485b33a984a6c4c3d7c5b768df95a29af3a33f5b9998ba2c75c0934bab"
+    },
+    {
+      "path": "textures/floor_tiles_06_nor_gl_4k.exr",
+      "size_bytes": 16749810,
+      "sha256": "8a4a66c0e97eb6dca091a02bd767109c0c139782560f4c0b49bcd22e5bec31d1",
+      "parts": [
+        {
+          "path": "textures/_source_parts/floor_tiles_06_nor_gl_4k.exr.part000",
+          "size_bytes": 8000000
+        },
+        {
+          "path": "textures/_source_parts/floor_tiles_06_nor_gl_4k.exr.part001",
+          "size_bytes": 8000000
+        },
+        {
+          "path": "textures/_source_parts/floor_tiles_06_nor_gl_4k.exr.part002",
+          "size_bytes": 749810
+        }
+      ]
+    },
+    {
+      "path": "textures/floor_tiles_06_disp_4k.png",
+      "size_bytes": 28109026,
+      "sha256": "47078155fd369e8c6d76365f6412014d5df5859dba89fc19332023f71cbed4c0",
+      "parts": [
+        {
+          "path": "textures/_source_parts/floor_tiles_06_disp_4k.png.part000",
+          "size_bytes": 8000000
+        },
+        {
+          "path": "textures/_source_parts/floor_tiles_06_disp_4k.png.part001",
+          "size_bytes": 8000000
+        },
+        {
+          "path": "textures/_source_parts/floor_tiles_06_disp_4k.png.part002",
+          "size_bytes": 8000000
+        },
+        {
+          "path": "textures/_source_parts/floor_tiles_06_disp_4k.png.part003",
+          "size_bytes": 4109026
+        }
+      ]
+    }
+  ]
+}
